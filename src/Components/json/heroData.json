@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "imag": "/Image/bag.png",
+    "title": "Gucchi Women",
+    "category": "female"
+  },
+  {
+    "id": "2",
+    "imag": "/Image/bag.png",
+    "title": "Excelent Men",
+    "category": "men"
+  },
+  {
+    "id": "3",
+    "imag": "/Image/bag.png",
+    "title": "Cute Kids",
+    "category": "kids"
+  },
+  {
+    "id": "4",
+    "imag": "/Image/bag.png",
+    "title": "Smart Collection",
+    "category": "unisex"
+  },
+  {
+    "id": "5",
+    "imag": "/Image/bag.png",
+    "title": "Gold Bangles",
+    "category": "jewelries"
+  },
+  {
+    "id": "6",
+    "imag": "/Image/bag.png",
+    "title": "Pomo Belt",
+    "category": "men"
+  }
+]
